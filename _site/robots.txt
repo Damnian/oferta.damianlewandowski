@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: http://www.oferta.damianlewandowski.pl/sitemap.xml
